@@ -25,6 +25,11 @@
   >
   > ![](https://github.com/uber/image-diff/raw/master/docs/example.png)
 
+* [civisanalytics/swagger-diff](https://github.com/civisanalytics)
+
+  > Swagger::Diff is a utility for comparing two different Open API Initiative (OAI) specifications (fka Swagger specifications).
+  >
+  > ![](https://github.com/civisanalytics/swagger-diff/raw/master/swagger-diff.gif)
 
 ## License
 
